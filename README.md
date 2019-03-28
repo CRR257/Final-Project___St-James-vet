@@ -6,8 +6,9 @@ _______________________________
 
 [Documentation](./st-james-vet-doc/README.md)
 
-Login:
-    email: vet@stjames.com
+Login:<br>
+
+    email: vet@stjames.com 
     password: vet
 
 [Demo](http://st-james-vet.surge.sh/)
